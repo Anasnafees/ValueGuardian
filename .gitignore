@@ -1,0 +1,6 @@
+﻿# Exclude image files
+*.png
+*.jpg
+*.gif
+.vs/
+
